@@ -2,7 +2,7 @@
 Molnmiljöer och säkerhetsåtgärder i AWS
 
 ## filer
-Diagram på molnmiljö och en rapport
+Diagram på molnmiljö, en rapport och presentation i två format (pptx, pdf)
 
 ## Säkerhetsåtgärder
 - route 53
